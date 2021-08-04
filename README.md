@@ -1,5 +1,5 @@
 # fantastic-readme-template
-Fastastic Readme Template for an open source repository!
+`Fastastic Readme Template & where to find it` for an open source repository!
 
 1. Title
 2. Table of Contents
